@@ -1,0 +1,129 @@
+Processed customer: Ann Jones (Customer ID: 100) with Parcel ID: X064
+Customer queue sorted by last name.
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+Processed customer: Ann Jones (Customer ID: 100) with Parcel ID: X064
+Processed customer: David Hunter (Customer ID: 101) with Parcel ID: X278
+Processed customer: Jo Hill (Customer ID: 102) with Parcel ID: X285
+Processed customer: Joe Woods (Customer ID: 103) with Parcel ID: X213
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+New Parcel added: X42069 (Weight: 69.0kg, Destination: Amsterdam)
+Processed customer: Ann Jones (Customer ID: 100) with Parcel ID: X064
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
+New customer added: Nelson (Customer ID: 205)
+Parcels data loaded successfully.
+Loaded customer: 100, Ann Jones, X064
+Loaded customer: 101, David Hunter, X278
+Loaded customer: 102, Jo Hill, X285
+Loaded customer: 103, Joe Woods, X213
+Loaded customer: 104, John Brown, X009
+Loaded customer: 105, Lily Watson, X121
+Loaded customer: 106, Lucy Grey, X025
+Loaded customer: 107, Mary Brown, X198
+Loaded customer: 108, Peter White, X036
+Loaded customer: 109, Susan Turner, X214
+Loaded customer: 110, Tim Smith, X020
+Loaded customer: 111, Tony Lawson, X086
+Customer data loaded successfully.
+Data loaded from CSV: parcels and customers.
